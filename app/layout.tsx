@@ -58,6 +58,9 @@ export const metadata: Metadata = {
     shortcut: '/assets/favicon-32.png'
   },
   manifest: '/site.webmanifest',
+  verification: {
+    google: 'OsvYI_QVKwYYFbnmvHUk23Y2s3-tVzD-VRUynkML7Q0'
+  },
   other: {
     'geo.region': 'BE-BRU',
     'geo.placename': 'Bruxelles, Belgique',
